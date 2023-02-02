@@ -3,7 +3,7 @@
 - :computer: I've been developing native iOS for 2 years now.
 - :computer: Familiar with macOS and Windows environments.
 - 
-BURASI BIR DENEMEDIR BAKALIM FETCH VAR MI
+
 
 
 # Short steps , long vision :hourglass:
