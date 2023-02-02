@@ -2,6 +2,8 @@
 - :computer: I am studying computer engineering 2nd grade in Istanbul University - Cerrahpasa.
 - :computer: I've been developing native iOS for 2 years now.
 - :computer: Familiar with macOS and Windows environments.
+- 
+BURASI BIR DENEMEDIR BAKALIM FETCH VAR MI
 
 
 # Short steps , long vision :hourglass:
