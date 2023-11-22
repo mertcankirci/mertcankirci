@@ -20,9 +20,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,py,java)
 
-### Contribution Graph
-
-[![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mertcankirci&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Most Used Languages
 
