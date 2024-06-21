@@ -5,10 +5,6 @@
 
 
 
-
-
-# Short steps , long vision :hourglass:
-
 <h2 align="leading">Social Media</h2>
 
 
