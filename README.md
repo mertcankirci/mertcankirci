@@ -1,47 +1,17 @@
-<h1 align="center">Hi there, I'm Mertcan Kırcı 👋</h1>
-<p align="center">🚀 iOS Developer | 💻 Swift Enthusiast | 🎯 Focused on Crafting Seamless Mobile Experiences</p>
+# Mertcan Kırcı
 
----
+iOS engineer based in Istanbul. I work mainly with Swift and SwiftUI, with a focus on modular architecture, maintainable code and polished interactions.
 
-### 👨‍💻 Who am I?
+### Selected work
 
-- 💻 Passionate iOS Developer  
-- 🧠 Familiar with **iOS**, **macOS**, and **Windows** environments  
-- 📱 Building user-centric, high-performance mobile apps  
+- **[KGE](https://github.com/mertcankirci/kge-macos):** macOS assistant structured as local Swift packages, with EventKit calendar integration
+- **[Speech Playback Configurator](https://github.com/mertcankirci/swiftui-speech-playback-configurator):** speech playback configuration built with SwiftUI and AVFoundation
+- **[SOLID Principles in Swift](https://github.com/mertcankirci/SOLID-Principles-Swift):** concise Swift examples of each SOLID principle
 
----
+### Tech
 
-### 🌐 Social Media
+Swift, SwiftUI, UIKit, Swift Package Manager
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mertcan-kırcı/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mertcankirci" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</p>
+### Contact
 
----
-
-### 💻 Programming Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=swift,c,cpp,py,java&perline=5" />
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcankirci&layout=compact&langs_count=10&theme=react" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-Feel free to reach out if you'd like to collaborate on a project, talk tech, or just say hi!
-
----
+[LinkedIn](https://www.linkedin.com/in/mertcan-k%C4%B1rc%C4%B1/)
